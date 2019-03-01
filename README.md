@@ -7,7 +7,7 @@ This is an example of how to use apollo-android which is a compliant which helps
 <br>
 
 It uses apollo-android for generating models according to the corresponding queries which help us to get results accordingly.<br>
-Documentation: https://github.com/apollographql/apollo-android<br><br>
+https://github.com/apollographql/apollo-android<br><br>
 
 <pre>
 query {
