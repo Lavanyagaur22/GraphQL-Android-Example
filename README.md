@@ -4,6 +4,7 @@ This is an example of how to use apollo-android which is a compliant which helps
 
 <br>
 <b>Documentation</b>: https://developer.github.com/v4/ 
+
 <br>
 
 It uses apollo-android for generating models according to the corresponding queries which help us to get results accordingly.<br>
