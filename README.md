@@ -1,4 +1,4 @@
-# GraphQL-Android Using Apollo-GraphQl
+# GraphQL-Android Using Apollo-GraphQL
 
 This is an example of how to use apollo-android which is a compliant which helps in consuming graphQL APIs. This project consumes the v4 of Github API which is a GraphQL API. 
 
